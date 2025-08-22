@@ -2,7 +2,7 @@
 
 ## 🌟 Frontend Developer | Learning Backend Development    
 
-With over **22 years of professional experience** at **Grameen Trust,** a sister concrn of Grameen Bank (last held position: **Senior Program Officer**), I have successfully transitioned into the **tech industry** as a **Frontend Developer**. My background in program management and leadership now fuels my journey in building **clean, responsive, and user-friendly web applications**.  
+With over **23 years of professional experience** at **Grameen Trust,** a sister concrn of Grameen Bank (last held position: **Senior Program Officer**), I have successfully transitioned into the **tech industry** as a **Frontend Developer**. My background in program management and leadership now fuels my journey in building **clean, responsive, and user-friendly web applications**.  
 
 ---
 
