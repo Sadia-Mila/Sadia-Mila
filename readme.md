@@ -33,7 +33,7 @@ With over **22 years of professional experience** at **Grameen Trust,** a sister
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sadia-Mila&show_icons=true&locale=en" alt="Sadia-Mila" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sadia-Mila &" alt="Sadia-Mila" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sadia-Mila" alt="Sadia-Mila" /></p>
 
 ## 📈 GitHub Stats  
 
